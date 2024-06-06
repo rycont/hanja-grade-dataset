@@ -6,7 +6,8 @@
 
 ## 데이터 다운로드
 
-[hanja.csv](https://github.com/rycont/kta-hanja-grade-dataset/blob/main/hanja.csv)
+- 모든 급수: [/hanja.csv](https://github.com/rycont/hanja-grade-dataset/blob/main/hanja.csv)
+- 급수별 데이터: [/by-level/*.csv](https://github.com/rycont/hanja-grade-dataset/blob/main/by-level)
 
 ## 데이터 예시
 
